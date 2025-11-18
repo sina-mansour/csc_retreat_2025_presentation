@@ -31,7 +31,8 @@ favicon: "/favicon.ico"
 
 <h2 style="font-size: 2rem; font-style: italic;">Charting Healthy Norms & Detecting Pathological Deviations</h2>
 
-<p class="text-lg text-teal-200"> Presentation slides for the CSC Retreat 2025</p>
+<p class="text-lg text-teal-200"> Presentation slides for the </p> [CSC Retreat 2025](https://sina-mansour.github.io/csc_retreat_2025_presentation/)
+
 <div class="abs-br m-6 text-xl">
   <a href="https://sina-mansour.github.io/" target="_blank" class="slidev-icon-btn">
     <carbon:user-avatar-filled />
